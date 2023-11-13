@@ -9,6 +9,7 @@ Focus on AI, reverse-engineering, wrappers.
 
 Python since 2018 <be>
 
+
 ![Static Badge](https://img.shields.io/badge/Specialized_in-Python_3-blue) <br>
 [![Python skill](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
