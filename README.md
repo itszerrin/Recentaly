@@ -1,5 +1,7 @@
 # Recentaly @ Github
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Recentaly&show_icons=true)
+
 ## About me
 <be>
 
@@ -7,12 +9,7 @@ Studying Computer Science 📍 Germany
 
 Focus on AI, reverse-engineering, wrappers.
 
-Python since 2018 <be>
+Python since 2018 <br>
 
 
-![Static Badge](https://img.shields.io/badge/Specialized_in-Python_3-blue) <br>
-[![Python skill](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-
-![Static Badge](https://img.shields.io/badge/VSCode-User) <br>
-[![Python skill](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Recentaly&theme=blue-green)
