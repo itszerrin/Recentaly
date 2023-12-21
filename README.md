@@ -1,6 +1,6 @@
 # Recentaly @ Github
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Recentaly&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Recentaly&show_icons=true&theme=nightowl)
 
 ## About me
 <be>
