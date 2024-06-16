@@ -1,4 +1,4 @@
-# Recentaly @ Github
+# Profile @ Github
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Recentaly&show_icons=true&theme=nightowl)
 
